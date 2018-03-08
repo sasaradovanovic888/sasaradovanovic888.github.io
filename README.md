@@ -1,4 +1,5 @@
-# [Kotlin](https://github.com/sasaradovanovic888/sasaradovanovic888.github.io/edit/master/kotlin.md)
+# [Kotlin](https://github.com/sasaradovanovic888/sasaradovanovic888.github.io/kotlin.md)
+[kotlin-examples](https://github.com/JetBrains/kotlin-examples)
 
 ## Welcome to GitHub Pages
 
