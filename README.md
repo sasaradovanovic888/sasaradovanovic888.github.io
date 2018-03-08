@@ -1,5 +1,6 @@
 # [Kotlin](https://kotlinlang.org)
-[MyKotlin](https://github.com/sasaradovanovic888/sasaradovanovic888.github.io/kotlin.md)
+
+[MyKotlin](https://sasaradovanovic888.github.io/kotlin) | 
 [kotlin-examples](https://github.com/JetBrains/kotlin-examples)
 
 ## Welcome to GitHub Pages
