@@ -36,12 +36,14 @@ Find out the Kotlin binary executables
 
 Add the following to the `~/.bash_profile` file, replace the bin path with yours using vim editor `vim ~/.bash_profile`
 
-```export PATH=$PATH:/Users/yourmacosusername/.sdkman/candidates/kotlin/current/bin/
+```
+export PATH=$PATH:/Users/yourmacosusername/.sdkman/candidates/kotlin/current/bin/
    function kotlinr() {
      echo Compiling, please wait...
      kotlinc $1 -include-runtime -d out.jar
      java -jar out.jar
-   }```
+   }
+```
 
 Apply the updates in the `~/.bash_profile` file.
 
