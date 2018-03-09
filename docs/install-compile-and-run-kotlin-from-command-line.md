@@ -14,9 +14,11 @@ Install [sdkman](http://sdkman.io/) from command line if it is not installed yet
 
 **Create a new file hello.kt**
 
-```fun main(args: Array<String>) {
+```
+fun main(args: Array<String>) {
        println("Hello World!")
-   }```
+   }
+```
 
 **Compile the Kotlin code using the kotlin compiler.**
 
